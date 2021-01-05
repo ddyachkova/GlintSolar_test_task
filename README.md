@@ -1,0 +1,1 @@
+# GlintSolar_test_task
