@@ -11,12 +11,6 @@ app.config["DEBUG"] = True
 def home():
     return "Welcome to the starting page"
 
-@app.route('/foo', methods=['POST']) 
-def foo():
-    data = request.json
-    print (data)
-    return jsonify(data)
-
 
 @app.route('/input/', methods=['post', 'get'])
 def login():
