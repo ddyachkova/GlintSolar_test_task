@@ -8,4 +8,4 @@ To run the Flask application locally, just run the command below, making sure th
 
 ``` python app.py ```
 
-The React project hosted on GitHub pages currently does not an implementation with the GET requests. 
+The React project in the glintsolar-app directory hosted on GitHub page ``` https://ddyachkova.github.io/glintsolar-app/ ``` currently does not an implementation with the GET requests. 
